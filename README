@@ -1,0 +1,5 @@
+Show logs from production server
+
+Usage: ./logs.py project-name [<n>] [<remote file path>]
+<n>:                 number of lines
+<remote file path>:  tmp/logs/prod.log by default
